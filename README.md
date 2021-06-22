@@ -1,0 +1,2 @@
+# DailyFresh
+天天生鲜电商项目基于django框架的website
